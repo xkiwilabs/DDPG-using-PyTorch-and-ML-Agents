@@ -74,7 +74,7 @@ Download the relevant environment zip file from one of the links below. You need
 
 After you have downloaded the relevant zip file, navigate to where you downloaded and saved this GitHub repository and place the file in the main folder of the repository, then unzip (or decompress) the file.
 
-NOTE: The Banana environment is similar to, but not identical to the Banana Collector environment on the Unity ML-Agents GitHub page. 
+NOTE: The Reacher environment is similar to, but not identical to the Reacher Collector environment on the Unity ML-Agents GitHub page. 
 
 ## Training
  - activate the conda environment you created above
