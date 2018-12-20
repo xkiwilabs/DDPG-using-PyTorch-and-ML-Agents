@@ -1,7 +1,7 @@
 # DDPG (Actor-Critic) Reinforcement Learning using PyTorch and Unity ML-Agents
-A simple example of how to implement vector based DQN using PyTorch and a ML-Agents environment.
+A simple example of how to implement vector based DDPG using PyTorch and a ML-Agents environment.
 
-The repository includes the following DQN related files:
+The repository includes the following files:
 - ddpg_agent.py -> ddpg-agent implementation
 - replay_buffer.py -> ddpg-agent's replay buffer implementation
 - model.py -> example PyTorch Actor and Critic neural networks
