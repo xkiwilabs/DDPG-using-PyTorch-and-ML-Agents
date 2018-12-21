@@ -14,7 +14,7 @@ This Unity application and testing environment was developed using ML-Agents Bet
 The files in the python/. directory are the ML-Agents toolkit files and dependencies required to run the Reacher environment.
 For more information about the Unity ML-Agents Toolkit visit: https://github.com/Unity-Technologies/ml-agents
 
-## Example Unity Environment - Banana's
+## Example Unity Environment - Reacher
 The example uses a modified version of the Unity ML-Agents Reacher Example Environment.
 The environment includes In this environment, a double-jointed arm can move to target locations. 
 A reward of +0.1 is provided for each step that the agent's hand is in the goal location. 
@@ -74,7 +74,7 @@ Download the relevant environment zip file from one of the links below. You need
 
 After you have downloaded the relevant zip file, navigate to where you downloaded and saved this GitHub repository and place the file in the main folder of the repository, then unzip (or decompress) the file.
 
-NOTE: The Reacher environment is similar to, but not identical to the Reacher Collector environment on the Unity ML-Agents GitHub page. 
+NOTE: The Reacher environment is similar to, but not identical to the Reacher environment on the Unity ML-Agents GitHub page. 
 
 ## Training
  - activate the conda environment you created above
