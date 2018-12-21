@@ -90,7 +90,7 @@ NOTE: The Reacher environment is similar to, but not identical to the Reacher Co
  - It is recommended that you train multiple agents and test different hyperparameter settings in `train.py` and `ddpg_agent.py`.
  - For more information about the DDPG training algorithm and the training hyperparameters see the included `Report.pdf` file.
 
- ![Example of agent performance (score) as a function of training episodes](media/exampleTrainingScoresGraph.jpg)
+ ![Example of agent performance (score) as a function of training episodes](media/exampleTrainingScoresGraph.png)
 
 
 ## Testing
