@@ -27,7 +27,7 @@ The training agent collects observations and learns from the experineces of all
 of the unity agents simultaneously. The reacher enviromnet example employed here 
 has 20 unity agents (i.e., 20 double-jointed arms).
 
-![Trained DDPG-Agent Reacher Unity Agents Following Tragets](media/reachercollection.gif)
+![Trained DDPG-Agent Reacher Unity Agents Following Tragets](media/reachertask.gif)
 
 ### State and Action Space
 The observation space consists of 33 variables corresponding to
