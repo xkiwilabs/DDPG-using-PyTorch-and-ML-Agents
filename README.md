@@ -6,7 +6,7 @@ The repository includes the following files:
 - replay_buffer.py -> ddpg-agent's replay buffer implementation
 - model.py -> example PyTorch Actor and Critic neural networks
 - train.py -> initializes and implements the training processes for a DDPG-agent.
-- test.py -> testes a trained DDPG-agent
+- test.py -> tests a trained DDPG-agent
 
 The repository also includes links to the Mac/Linux/Windows versions of a simple Unity environment, *Reacher*, for testing.
 This Unity application and testing environment was developed using ML-Agents Beta v0.4. The version of the Banana environment employed for this project was developed for the Udacity Deep Reinforcement Nanodegree course. For more information about this course visit: https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893
@@ -22,10 +22,7 @@ Thus, the goal of your agent is to maintain its position at the target location 
 time steps as possible. The environment uses multiple unity agents to increase training time.
 
 ### Multiagent Traning
-The reacher environment contains multiple unity agents to increase training time.
-The training agent collects observations and learns from the experineces of all 
-of the unity agents simultaneously. The reacher enviromnet example employed here 
-has 20 unity agents (i.e., 20 double-jointed arms).
+The Reacher environment contains multiple unity agents to increase training time. The training agent collects observations and learns from the experiences of all of the unity agents simultaneously. The Reacher environment example employed here has 20 unity agents (i.e., 20 double-jointed arms).
 
 ![Trained DDPG-Agent Reacher Unity Agents Following Tragets](media/reachertask.gif)
 
