@@ -9,7 +9,7 @@ The repository includes the following files:
 - test.py -> tests a trained DDPG-agent
 
 The repository also includes links to the Mac/Linux/Windows versions of a simple Unity environment, *Reacher*, for testing.
-This Unity application and testing environment was developed using ML-Agents Beta v0.4. The version of the Banana environment employed for this project was developed for the Udacity Deep Reinforcement Nanodegree course. For more information about this course visit: https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893
+This Unity application and testing environment was developed using ML-Agents Beta v0.4. The version of the Reacher environment employed for this project was developed for the Udacity Deep Reinforcement Nanodegree course. For more information about this course visit: https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893
 
 The files in the python/. directory are the ML-Agents toolkit files and dependencies required to run the Reacher environment.
 For more information about the Unity ML-Agents Toolkit visit: https://github.com/Unity-Technologies/ml-agents
@@ -60,7 +60,7 @@ be a number between -1 and 1.
 	- Note: depdeing on your system setup, you may have to install PyTorch separatetly. 
 		
 ## Download the Unity Environment
-For this example project, you will not need to install Unity - this is because you can use a version of the Banana's unity environment that is already built (compiled) as a standalone application. 
+For this example project, you will not need to install Unity - this is because you can use a version of the Reacher's unity environment that is already built (compiled) as a standalone application. 
 
 Download the relevant environment zip file from one of the links below. You need only to download the environment that matches your operating system:
 
